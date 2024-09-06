@@ -6,7 +6,11 @@ create a .env file with your database url
 
 DATABASE_URL=your database url...
 
-run the development server:
+dowload the packages with 
+
+npm i
+
+then run the app
 
 ```bash
 npm run dev
